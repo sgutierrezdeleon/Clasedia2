@@ -8,7 +8,7 @@ public class Clasedia2Array {
 		
 		// Comentario
 		
-		int x = 3 ;
+		int x = 7 ;
 		int y = 3;
 		
 		System.out.println("x == y: " + (x==y));
