@@ -6,6 +6,8 @@ public class Clasedia2Array {
 		int a2 [] = {1,2,3,4}; //mochila del leon
 		int a3[] = new int[4];
 		
+		// Comentario
+		
 		int x = 3 ;
 		int y = 3;
 		
